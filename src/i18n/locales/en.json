@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "hostLogin": "Host Login"
+  },
+  "booking": {
+    "title": "Book Space",
+    "myBookings": "My Bookings",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "duration": "Duration",
+    "hours": "hours",
+    "total": "Total",
+    "confirm": "Confirm Booking",
+    "success": "Booking Confirmed!",
+    "error": "Booking Failed"
+  },
+  "spaces": {
+    "title": "Explore",
+    "search": "Search spaces...",
+    "filter": "Filter",
+    "sort": "Sort",
+    "noResults": "No spaces found",
+    "pricePerHour": "per hour",
+    "amenities": "Amenities",
+    "location": "Location",
+    "host": "Host",
+    "listSpace": "List Your Space"
+  },
+  "messages": {
+    "title": "Messages",
+    "noMessages": "No messages yet",
+    "typeMessage": "Type a message...",
+    "send": "Send"
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "settings": "Settings",
+    "security": "Security"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview",
+    "bookings": "Bookings",
+    "earnings": "Earnings",
+    "spaces": "Spaces"
+  }
+}

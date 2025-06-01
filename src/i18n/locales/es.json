@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "retry": "Intentar de nuevo",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "close": "Cerrar",
+    "confirm": "Confirmar",
+    "back": "Volver"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar Sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "hostLogin": "Acceso Anfitrión"
+  },
+  "booking": {
+    "title": "Reservar Espacio",
+    "myBookings": "Mis Reservas",
+    "selectDate": "Seleccionar Fecha",
+    "selectTime": "Seleccionar Hora",
+    "duration": "Duración",
+    "hours": "horas",
+    "total": "Total",
+    "confirm": "Confirmar Reserva",
+    "success": "¡Reserva Confirmada!",
+    "error": "Error en la Reserva"
+  },
+  "spaces": {
+    "title": "Explorar",
+    "search": "Buscar espacios...",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "noResults": "No se encontraron espacios",
+    "pricePerHour": "por hora",
+    "amenities": "Comodidades",
+    "location": "Ubicación",
+    "host": "Anfitrión",
+    "listSpace": "Publicar Espacio"
+  },
+  "messages": {
+    "title": "Mensajes",
+    "noMessages": "No hay mensajes",
+    "typeMessage": "Escribe un mensaje...",
+    "send": "Enviar"
+  },
+  "profile": {
+    "title": "Perfil",
+    "personalInfo": "Información Personal",
+    "settings": "Configuración",
+    "security": "Seguridad"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "overview": "Resumen",
+    "bookings": "Reservas",
+    "earnings": "Ganancias",
+    "spaces": "Espacios"
+  }
+}
